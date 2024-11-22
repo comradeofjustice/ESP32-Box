@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "idf.adapterTargetName": "esp32s3",
+    "files.associations": {
+        "stdio.h": "c",
+        "esp_log.h": "c",
+        "task.h": "c",
+        "freertos.h": "c"
+    },
+    "idf.portWin": "COM12",
+    "idf.flashType": "UART",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ]
+}
